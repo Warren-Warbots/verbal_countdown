@@ -1,5 +1,8 @@
 This is a tool that reads out the time left in a match on the speakers of your driver station laptop
 
+Demo:
+https://www.youtube.com/shorts/bfsY4GpP0Tc
+
 Installation instructions:
 1. add this to your your teleop periodic:
 
