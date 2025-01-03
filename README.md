@@ -23,4 +23,4 @@ python app.py 10.TE.AM.2
 
 
 
-To change which times are read edit the times_to_announce_list app.py
+To change which times are read edit the times_to_announce list in app.py
